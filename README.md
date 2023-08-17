@@ -18,7 +18,7 @@ Se proporcionará, un mockup de como debe quedar el prototipo. Este es una versi
 
 El único endpoint a consultar será:
 
-GET: https://boiling-mountain-49639.herokuapp.com/desafio-frontend
+GET: http://localhost:4000/api/offices
 
 #### Assets
 
